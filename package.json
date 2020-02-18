@@ -13,7 +13,7 @@
     "publish": "npm publish --access=public dist/ng2-smart-table",
     "changelog": "standard-changelog -p angular",
     "lint": "ng lint",
-    "e2e": "ng e2e",
+    "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
