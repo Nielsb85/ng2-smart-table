@@ -14,7 +14,6 @@
     "changelog": "standard-changelog -p angular",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "npm run build:lib"
   },
   "private": true,
   "dependencies": {
